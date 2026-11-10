@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aegis Vault</string>
+    <string name="tagline_secure_vault">Independent Private Sandbox</string>
+    <string name="tab_apps">Hidden Apps</string>
+    <string name="tab_media">Private Media</string>
+    <string name="tab_notes">Secret Notes</string>
+    <string name="btn_add_app">Add App to Vault</string>
+    <string name="btn_unlock">Unlock Vault</string>
+    <string name="btn_confirm">Confirm</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="dialog_conceal_title">Conceal from Phone Launcher</string>
+    <string name="dialog_conceal_desc">To completely hide this app from your public home screen and app drawer without changing your default launcher, tap below to open system settings where you can disable or uninstall the public icon.</string>
+</resources>
